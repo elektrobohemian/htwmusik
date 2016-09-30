@@ -3,14 +3,14 @@ Im folgenden soll kurz auf die hard- und softwareseitigen Anforderungen der Appl
 ## Hardware
   Es wurde während der Entwicklung des Systems auf zwei Systemen folgender Spezifikationen gearbeitet:
 
-## System 1: Deployment
+### System 1: Deployment
 | Bauteil |  Beschreibung |
 | ------------ | -------------|
 | CPU | Intel Xeon E3-1225 V2 @3.20GHz (Quad Core) |
 | RAM | 16GB |
 | Festspeicher | 2TB HDD |
 
-## System 2: Development
+### System 2: Development
 | Bauteil |  Beschreibung |
 | ------------ | -------------|
 | CPU | Intel Core I7  @3.40GHz (Quad Core mit Hyper-Threading) |
